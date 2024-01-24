@@ -1,0 +1,20 @@
+.grid-content{
+
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+
+}
+
+
+div#london{
+    background-color: blueviolet;
+}
+
+div#oslo{
+    background-color: yellow;
+}
+
+div#rome{
+    background-color: violet;
+}
